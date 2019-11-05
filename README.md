@@ -8,7 +8,7 @@
 - [Sedzjad Sheefe](https://www.stsheefe.eu/)
 - [Martin Keesom](https://martinkeesom.nl)
 - [Femke Roozendaal](https://femkeroozendaal.com)
-- [Jelle Minis]()
+- [Jelle Minis](https://jelleminis.nl)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODA0NDc2M119
+eyJoaXN0b3J5IjpbLTI3OTA4MjUxMCwxNTg4MDQ0NzYzXX0=
 -->
